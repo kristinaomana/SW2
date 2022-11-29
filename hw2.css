@@ -1,0 +1,6 @@
+h1 {
+	border-style: solid;
+	border-width: thick thin medium 11px;
+	border-color: blueviolet;
+	padding: 40px;
+}
